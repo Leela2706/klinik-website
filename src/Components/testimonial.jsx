@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Testimonial extends Component {
   render() {
     return <div>
-  (
+  
   {/* Testimonial Start */}
   <div className="container-xxl py-5">
     <div className="container">
@@ -40,7 +40,7 @@ export default class Testimonial extends Component {
     </div>
   </div>
   {/* Testimonial End */}
-  )
+  
 </div>
 
   }

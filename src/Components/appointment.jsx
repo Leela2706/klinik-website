@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Appointment extends Component {
   render() {
     return <div>
-  (
+  
   {/* Appointment Start */}
   <div className="container-xxl py-5">
     <div className="container">
@@ -76,7 +76,7 @@ export default class Appointment extends Component {
     </div>
   </div>
   {/* Appointment End */}
-  )
+  
 </div>
 
   }

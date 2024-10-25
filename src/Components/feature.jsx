@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Feature extends Component {
   render() {
     return <div>
-  (
+  
   {/* Feature Start */}
   <div className="container-fluid bg-primary overflow-hidden my-5 px-lg-0">
     <div className="container feature px-lg-0">
@@ -70,7 +70,7 @@ export default class Feature extends Component {
     </div>
   </div>
   {/* Feature End */}
-  )
+  
 </div>
 
   }

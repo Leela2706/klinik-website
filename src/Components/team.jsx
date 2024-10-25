@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Team extends Component {
   render() {
     return <div>
-  (
+  
   {/* Team Start */}
   <div className="container-xxl py-5">
     <div className="container">
@@ -80,7 +80,7 @@ export default class Team extends Component {
     </div>
   </div>
   {/* Team End */}
-  )
+  
 </div>
 
   }

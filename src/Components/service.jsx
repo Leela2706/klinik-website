@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Service extends Component {
   render() {
     return <div>
-  (
+  
   {/* Service Start */}
   <div className="container-xxl py-5">
     <div className="container">
@@ -76,7 +76,7 @@ export default class Service extends Component {
     </div>
   </div>
   {/* Service End */}
-  )
+  
 </div>
 
   }
